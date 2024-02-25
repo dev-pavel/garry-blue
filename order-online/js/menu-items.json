@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0001",
+    "title": "Big Garry",
+    "description": "Big Garry description",
+    "price": 9.99,
+    "imageURL": "https://images.unsplash.com/photo-1548946522-4a313e8972a4?q=80&w=2918&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "0002",
+    "title": "Taters",
+    "description": "Taters description",
+    "price": 19.99,
+    "imageURL": "https://plus.unsplash.com/premium_photo-1667233387904-438d0b2f5a40?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "0003",
+    "title": "Soup",
+    "description": "Soup description",
+    "price": 29.99,
+    "imageURL": "https://plus.unsplash.com/premium_photo-1669687759693-52ba5f9fa7a8?q=80&w=2788&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "0004",
+    "title": "Poutine",
+    "description": "Poutine description",
+    "price": 12.99,
+    "imageURL": "https://images.unsplash.com/photo-1647482770207-4e8f5ba7b33e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "0005",
+    "title": "Basket o'Chicken",
+    "description": "Basket o'Chicken description",
+    "price": 4.99,
+    "imageURL": "https://plus.unsplash.com/premium_photo-1664391997303-dab867f07ad4?q=80&w=2828&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": "0006",
+    "title": "Salad",
+    "description": "Salad description",
+    "price": 7.99,
+    "imageURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
